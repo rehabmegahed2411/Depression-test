@@ -1,23 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:test_proj/ChangesInAppetite.dart';
-import 'package:test_proj/DifficultyOfConcentration.dart';
-import 'package:test_proj/Fatigue.dart';
-import 'package:test_proj/FeelingsOfWorthlessness.dart';
-import 'package:test_proj/Indecision.dart';
-import 'package:test_proj/Irritability.dart';
-import 'package:test_proj/LossOfInterestInSEx.dart';
-import 'package:test_proj/SenseOfPunishment.dart';
-import 'package:test_proj/WeightChanges.dart';
-import 'package:test_proj/changeOfSleep.dart';
-import 'package:test_proj/crying.dart';
-import 'package:test_proj/homePage.dart';
-import 'package:test_proj/loss%20of%20pleasure.dart';
-import 'package:test_proj/main.dart';
-import 'package:test_proj/pessimisim.dart';
-import 'package:test_proj/senseOf%20Failure.dart';
-import 'package:test_proj/socialWithdrawal.dart';
-import 'package:test_proj/suicidalIdeas.dart';
+import 'package:test_proj/Test/LossOfInterestInSEx.dart';
+import 'package:test_proj/Test/WeightChanges.dart';
+import 'package:test_proj/Test/main.dart';
+
+
 
 class Health extends StatefulWidget {
   @override

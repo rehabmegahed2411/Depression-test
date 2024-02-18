@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:test_proj/main.dart';
-import 'package:test_proj/pessimisim.dart';
+import 'package:test_proj/Test/main.dart';
+import 'package:test_proj/Test/pessimisim.dart';
+
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage();

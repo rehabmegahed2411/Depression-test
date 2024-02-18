@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:test_proj/SelfIncrimintation.dart';
-import 'package:test_proj/SenseOfPunishment.dart';
-import 'package:test_proj/guilt.dart';
-import 'package:test_proj/homePage.dart';
-import 'package:test_proj/loss%20of%20pleasure.dart';
-import 'package:test_proj/main.dart';
-import 'package:test_proj/pessimisim.dart';
-import 'package:test_proj/senseOf%20Failure.dart';
+import 'package:test_proj/Test/SelfIncrimintation.dart';
+import 'package:test_proj/Test/SenseOfPunishment.dart';
+import 'package:test_proj/Test/main.dart';
+
 import 'package:typewritertext/typewritertext.dart';
 import 'package:widget_and_text_animator/widget_and_text_animator.dart';
 

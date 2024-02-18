@@ -1,10 +1,10 @@
 import 'package:drop_shadow/drop_shadow.dart';
 import 'package:flutter/material.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:test_proj/homePage.dart';
-import 'package:test_proj/loss%20of%20pleasure.dart';
-import 'package:test_proj/main.dart';
-import 'package:test_proj/pessimisim.dart';
+import 'package:test_proj/Test/loss%20of%20pleasure.dart';
+import 'package:test_proj/Test/main.dart';
+import 'package:test_proj/Test/pessimisim.dart';
+
 import 'package:typewritertext/typewritertext.dart';
 import 'package:widget_and_text_animator/widget_and_text_animator.dart';
 

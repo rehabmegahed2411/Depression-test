@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:test_proj/homePage.dart';
-import 'package:test_proj/result.dart';
+import 'package:test_proj/Test/firstscreen.dart';
+
 
 int userScore = 0;
 int cognitiveScore = 0;

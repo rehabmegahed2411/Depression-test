@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:sleek_circular_slider/sleek_circular_slider.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:test_proj/main.dart';
+
 import 'package:percent_indicator/percent_indicator.dart';
+import 'package:test_proj/Test/main.dart';
 
 class MtResult extends StatefulWidget {
   final int userScore;

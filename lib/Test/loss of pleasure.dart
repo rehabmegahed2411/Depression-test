@@ -1,11 +1,10 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
-import 'package:test_proj/guilt.dart';
-import 'package:test_proj/homePage.dart';
-import 'package:test_proj/main.dart';
-import 'package:test_proj/pessimisim.dart';
-import 'package:test_proj/senseOf%20Failure.dart';
+import 'package:test_proj/Test/guilt.dart';
+import 'package:test_proj/Test/main.dart';
+import 'package:test_proj/Test/senseOf%20Failure.dart';
+
 import 'package:typewritertext/typewritertext.dart';
 import 'package:widget_and_text_animator/widget_and_text_animator.dart';
 
